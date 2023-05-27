@@ -6,11 +6,11 @@ TerrainLayer:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Snow2
-  m_DiffuseTexture: {fileID: 2800000, guid: b9c58fb46a9c87a479b4b03dd721bad8, type: 3}
-  m_NormalMapTexture: {fileID: 2800000, guid: 888c932c195654b48b748da8196bbe04, type: 3}
+  m_Name: ForestSnow
+  m_DiffuseTexture: {fileID: 2800000, guid: c489e5685a081428e9e4c1ffaf365764, type: 3}
+  m_NormalMapTexture: {fileID: 2800000, guid: 19ea68a259b5a4815ad8cfe8d1bce1a7, type: 3}
   m_MaskMapTexture: {fileID: 0}
-  m_TileSize: {x: 15, y: 15}
+  m_TileSize: {x: 2, y: 2}
   m_TileOffset: {x: 0, y: 0}
   m_Specular: {r: 0, g: 0, b: 0, a: 0}
   m_Metallic: 0
