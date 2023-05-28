@@ -8,4 +8,13 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/SolarSystem.unity
+    guid: ad9f03ce89ba41a4c9797cfb57cdbea4
+  - enabled: 1
+    path: Assets/Scenes/IcePlaceholder.unity
+    guid: 54a7d3023454fb24bb4006c970ab580d
+  - enabled: 1
+    path: Assets/Scenes/EarthPlaceholder.unity
+    guid: 754f4922dd2ad0d4a9fc060057fcba3c
   m_configObjects: {}
