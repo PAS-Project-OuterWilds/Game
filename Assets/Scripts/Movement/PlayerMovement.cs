@@ -106,7 +106,7 @@ public class PlayerMovement : MonoBehaviour
             rb.velocity = new Vector3(limitedVel.x, rb.velocity.y, limitedVel.z);
         }
 
-        text_speed.SetText("Speed: " + flatVel.magnitude);
+        // text_speed.SetText("Speed: " + flatVel.magnitude);
     }
 
     private void Jump()
