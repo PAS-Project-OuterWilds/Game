@@ -56,6 +56,7 @@ public class Buoyancy : MonoBehaviour
         {
             RB.drag = airDrag;
             RB.angularDrag = airAngularDrag;
+            waterHeight = 0;
         }
     }
 
@@ -63,7 +64,7 @@ public class Buoyancy : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Water"))
         {
-            waterHeight = collision.gameObject.transform.position.y;
+            waterHeight = collision.gameObject.transform.position.y + collision.gameObject.transform.localScale.y / 2;
         }
     }
 }
