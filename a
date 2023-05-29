@@ -1,0 +1,129 @@
+[33mcommit 72ed70792202e990d6a4b353ae40241613844a09[m[33m ([m[1;36mHEAD -> [m[1;32mfeature/earth[m[33m)[m
+Author: Marius2504 <marius.dumitrescu@s.unibuc.ro>
+Date:   Mon May 29 19:36:21 2023 +0300
+
+    try2
+
+[33mcommit 4d00d71cadaa1b504f2bb2895ff95f40e8efad13[m
+Author: Marius2504 <marius.dumitrescu@s.unibuc.ro>
+Date:   Mon May 29 19:28:52 2023 +0300
+
+    firstPush
+
+[33mcommit c13f62cc4e4b7ffc212c32c34a1bf6f2978d629c[m
+Author: Marius2504 <marius.dumitrescu@s.unibuc.ro>
+Date:   Mon May 29 19:14:16 2023 +0300
+
+    dinalcommit
+
+[33mcommit fa4e6f2100abe18c6d7e11bc87adbd207103dc26[m
+Author: Marius2504 <marius.dumitrescu@s.unibuc.ro>
+Date:   Mon May 29 18:32:46 2023 +0300
+
+    Initial commit
+    
+    Earth plannet
+
+[33mcommit 22a9e72ae71b4ed00e6b17f9884faf650edca35d[m
+Author: Radu Mihai <mihai.radu5@s.unibuc.ro>
+Date:   Sun May 28 16:13:20 2023 +0300
+
+    Add buttons to switch the scenes
+
+[33mcommit 0d8d79924c6687ca80d7359778ec7ad55d09da14[m
+Author: Dragos Stefan Mihalcea <dragos.mihalcea@s.unibuc.ro>
+Date:   Sun May 28 15:48:28 2023 +0300
+
+    Updated planets scale
+
+[33mcommit a7709f51142b51e1e36cfaa999091fa2b3bff6ee[m
+Merge: 5915871 ef9001a
+Author: Radu Mihai <mihai.radu5@s.unibuc.ro>
+Date:   Sun May 28 14:43:33 2023 +0300
+
+    Merge pull request #4 from PAS-Project-OuterWilds/textures_and_light
+    
+    add textures and lights to solar system
+
+[33mcommit ef9001a55c4821dc491878e0f7ec06dcda28f1ce[m[33m ([m[1;31morigin/textures_and_light[m[33m)[m
+Author: Vlad Melisa <melisa.vlad@s.unibuc.ro>
+Date:   Sun May 28 14:42:50 2023 +0300
+
+    add textures and lights to solar system
+
+[33mcommit 5915871dc44b883ca6ac0126ce6833af34a82e97[m
+Author: Zamora Teodor <80700831+zzzamoraaa@users.noreply.github.com>
+Date:   Fri May 26 12:18:09 2023 +0300
+
+    Merge pull request #1 from PAS-Project-OuterWilds/movement+collision
+    
+    movement and collision
+
+[33mcommit e89c173940ba0d0b652f36b17240c54ca85adccd[m
+Merge: b97c4ef dd3bedb
+Author: Dragos Stefan Mihalcea <83021032+mdragos1@users.noreply.github.com>
+Date:   Fri May 26 18:12:22 2023 +0300
+
+    Merge pull request #3 from PAS-Project-OuterWilds/movement+collision
+    
+    Mock commit to merge this branch to main
+
+[33mcommit dd3bedb7fc83a697b84ed40e7715d618d990d3da[m[33m ([m[1;31morigin/movement+collision[m[33m)[m
+Author: Dragos Stefan Mihalcea <dragos.mihalcea@s.unibuc.ro>
+Date:   Fri May 26 18:11:58 2023 +0300
+
+    Mock commit to merge this branch to main
+
+[33mcommit b97c4ef63932f4c46fa1dffebe8b150179566959[m
+Merge: c439618 d8f080f
+Author: Zamora Teodor <80700831+zzzamoraaa@users.noreply.github.com>
+Date:   Fri May 26 12:18:55 2023 +0300
+
+    Merge pull request #2 from PAS-Project-OuterWilds/revert-1-movement+collision
+    
+    Revert "movement and collision"
+
+[33mcommit d8f080f735fba1f4efadc82a5cff389920000669[m
+Author: Zamora Teodor <80700831+zzzamoraaa@users.noreply.github.com>
+Date:   Fri May 26 12:18:42 2023 +0300
+
+    Revert "movement and collision"
+
+[33mcommit c4396181078b517533979bacc810e9ec0f734479[m
+Merge: 62fd7e4 0f7c89d
+Author: Zamora Teodor <80700831+zzzamoraaa@users.noreply.github.com>
+Date:   Fri May 26 12:18:09 2023 +0300
+
+    Merge pull request #1 from PAS-Project-OuterWilds/movement+collision
+    
+    movement and collision
+
+[33mcommit 0f7c89d85f84cb3e7fa3f4787927383900c1338d[m
+Author: Zamora <ionut.zamora@s.unibuc.ro>
+Date:   Fri May 26 12:16:38 2023 +0300
+
+    movement and collision
+
+[33mcommit 62fd7e49c7012f7c793c802ff3d63e007c9af8ea[m
+Author: Radu Mihai <mihai.radu5@s.unibuc.ro>
+Date:   Tue Apr 11 20:26:18 2023 +0300
+
+    Create project and solar system
+
+[33mcommit 9c07842f0e2b56e4bfebadcc6fd9ca77b67d030f[m
+Author: Corrado Nadolo-Buzneri <105064568+corradonb@users.noreply.github.com>
+Date:   Tue Apr 4 17:13:13 2023 +0300
+
+    Update README.md
+
+[33mcommit 827c437251962197790ea2acb7c36ce0f91cebbe[m
+Author: Corrado Nadolo-Buzneri <corrado.nadolo.buzneri@gmail.com>
+Date:   Tue Apr 4 17:12:06 2023 +0300
+
+    initial commit: gitignore
+
+[33mcommit b9aeea3a8eaaea99110673c9102fcf0b2ca82c3a[m
+Author: Corrado Nadolo-Buzneri <105064568+corradonb@users.noreply.github.com>
+Date:   Tue Apr 4 17:09:44 2023 +0300
+
+    Initial commit
