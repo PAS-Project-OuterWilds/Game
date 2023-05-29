@@ -16,9 +16,6 @@ public class Buoyancy : MonoBehaviour
     bool underwater;
     int floatersunderWater;
 
-    //debug
-    private bool touchedWater = false;
-
     void Start()
     {
         RB = GetComponent<Rigidbody>();
@@ -66,7 +63,6 @@ public class Buoyancy : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Water"))
         {
-            touchedWater = true;
             waterHeight = collision.gameObject.transform.position.y;
         }
     }
