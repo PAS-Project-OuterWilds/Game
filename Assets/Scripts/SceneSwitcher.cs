@@ -17,8 +17,8 @@ public class SceneSwitcher : MonoBehaviour
         
     }
 
-    public void SwitchScene(string sceneName)
+    public void SwitchScene(int sceneOrder)
     {
-        SceneManager.LoadScene(sceneName);
+        SceneManager.LoadScene(sceneOrder);
     }
 }

@@ -97,7 +97,8 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 0}
+  m_LightingDataAsset: {fileID: 112000000, guid: f680d002afcee784f99a12690f03b46c,
+    type: 2}
   m_LightingSettings: {fileID: 0}
 --- !u!196 &4
 NavMeshSettings:
@@ -230,7 +231,7 @@ Light:
   serializedVersion: 10
   m_Type: 1
   m_Shape: 0
-  m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
+  m_Color: {r: 1, g: 0.9987345, b: 0.995283, a: 1}
   m_Intensity: 1
   m_Range: 10
   m_SpotAngle: 30
@@ -928,6 +929,11 @@ PrefabInstance:
       propertyPath: floaters.Array.data[0]
       value: 
       objectReference: {fileID: 1441353713}
+    - target: {fileID: 8648511707559880850, guid: 40f97bf10def60c4585fdd25d0a45489,
+        type: 3}
+      propertyPath: moveSpeed
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 8648511707559880876, guid: 40f97bf10def60c4585fdd25d0a45489,
         type: 3}
       propertyPath: m_RootOrder
@@ -936,7 +942,7 @@ PrefabInstance:
     - target: {fileID: 8648511707559880876, guid: 40f97bf10def60c4585fdd25d0a45489,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 448.22
+      value: 231.2
       objectReference: {fileID: 0}
     - target: {fileID: 8648511707559880876, guid: 40f97bf10def60c4585fdd25d0a45489,
         type: 3}

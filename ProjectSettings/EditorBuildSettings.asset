@@ -8,17 +8,15 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Imports/Free sample materials/Scenes/SampleMaterials.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Planet2_Sandbox.unity
     guid: c7fe67263edf5824587593bf68552a05
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/SolarSystem.unity
     guid: ad9f03ce89ba41a4c9797cfb57cdbea4
+  - enabled: 1
+    path: Assets/Scenes/IcePlanet.unity
+    guid: 07eb8be4959dac34b80feb533544cc61
   - enabled: 1
     path: Assets/Scenes/IcePlaceholder.unity
     guid: 54a7d3023454fb24bb4006c970ab580d
