@@ -12,6 +12,6 @@ EditorBuildSettings:
     path: Assets/Scenes/IcePlanet.unity
     guid: 07eb8be4959dac34b80feb533544cc61
   - enabled: 1
-    path: Assets/Scenes/EarthPlaceholder.unity
-    guid: 754f4922dd2ad0d4a9fc060057fcba3c
+    path: Assets/Scenes/Earth.unity
+    guid: 0b0f72335ddf3954cbe305942124cf40
   m_configObjects: {}
